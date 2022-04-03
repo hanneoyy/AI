@@ -1,0 +1,6 @@
+Comment utiliser empty ?
+On a écrit empty(Pf) ou Pf is empty(nil)
+
+Erreur sur aetoile qui ne fonctionne pas, pourquoi ?
+
+Rajouter G dans aetoile - on a le droit ? 
